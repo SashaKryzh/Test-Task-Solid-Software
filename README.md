@@ -3,6 +3,8 @@
 # Test task for Solid Software
 The task from Yana Mandziuk Talent Acquisition Specialist at [Solid Software](https://solid.software).
 
+![Preview](/resources/preview.png)
+
 ## Instruction
 1. Install Flutter
 2. Create a test application
